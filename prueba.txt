@@ -3,3 +3,6 @@ Archivo de texto para practica-git
 Primer archivo
 Contenido solicitado
 5 renglones
+nuevo agregado
+ahora deben ser:
+8 renglones
